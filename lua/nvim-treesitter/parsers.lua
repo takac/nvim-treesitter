@@ -1111,6 +1111,15 @@ list.norg = {
   maintainers = { "@JoeyGrajciar", "@vhyrro" },
 }
 
+list.nu = {
+  install_info = {
+    url = "https://github.com/LhKipp/tree-sitter-nu",
+    files = { "src/parser.c", "src/scanner.c" },
+  },
+  maintainers = { "@LhKipp" },
+}
+
+
 list.nqc = {
   install_info = {
     url = "https://github.com/amaanq/tree-sitter-nqc",
